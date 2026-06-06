@@ -1,3 +1,9 @@
+
+![](assets/Bottom_up.svg)
+
+![](assets/header_.png)
+
+
 # Sopuru Kingsley – Software eng | AI/ML Researcher
 
 I'm a year 3 undergraduate student at University of Bradford, studying Computer Science. I work at the intersection of AI research and software engineering — building systems that are not just functional, but grounded in rigorous ML principles.
